@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+#TV{
+  max-width: 250px;
+  min-height: 150px;
+  background-color: #000;
+  display: block;
+}
+
+#lbl-CH{
+  color: #FFF;
+  display: none;
+}
+
+#lbl-Vol{
+  color: #FFF;
+  display: none;
+}
+
+#lbl-PWR{
+  color: #970303;
+  background-color: #FF0000;
+}
+
+#Control{
+  max-width: 100px;
+  background-color: #494949;
+  color: #FFF;
+  display: inline-grid;
+}
+

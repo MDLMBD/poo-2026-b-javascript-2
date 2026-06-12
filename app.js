@@ -4,7 +4,7 @@ const television = {
     canal: 0,
     power: false,
 };
-
+//hola
 //referencias al DOM
 SeccionTV = document.getElementById("TV")
 botonMasVolumen = document.getElementById("btn-VolMas")
